@@ -55,7 +55,7 @@ function setup() {
   bubble.addImage(bubble_img);
   bubble.scale = 0.1;
   
-  //bunny sprite
+  // Sprite del conejito
   blink.frameDelay = 20;
   eat.frameDelay = 20;
   bunny = createSprite(270,100,100,100);
